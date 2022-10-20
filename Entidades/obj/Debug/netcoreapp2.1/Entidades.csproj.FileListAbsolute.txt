@@ -1,0 +1,15 @@
+C:\Users\Carlos\source\repos\wissen\Entidades\bin\Debug\netcoreapp2.1\Entidades.deps.json
+C:\Users\Carlos\source\repos\wissen\Entidades\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\Carlos\source\repos\wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfo.cs
+C:\Users\uires\source\repos\Wissen\Entidades\bin\Debug\netcoreapp2.1\Entidades.deps.json
+C:\Users\uires\source\repos\Wissen\Entidades\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\uires\source\repos\Wissen\Entidades\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.csprojAssemblyReference.cache
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfo.cs
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\uires\source\repos\Wissen\Entidades\obj\Debug\netcoreapp2.1\Entidades.pdb
